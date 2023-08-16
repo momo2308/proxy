@@ -1,3 +1,4 @@
+*.cloudflare.com
 *.jm365.me
 *.18comic.vip
 *.jmcomic1.win
